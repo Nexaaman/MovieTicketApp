@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/profile.png</file>
+        <file>image/add.jpg</file>
+        <file>image/home.jpeg</file>
+        <file>image/ticket.png</file>
+        <file>image/available.jpg</file>
+        <file>image/booked.jpg</file>
+        <file>image/infoImage.jpg</file>
+        <file>image/panda.png</file>
+        <file>image/cineapp.png</file>
+        <file>image/image.jpg</file>
+    </qresource>
+</RCC>
